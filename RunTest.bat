@@ -1,0 +1,1 @@
+java -cp D:\Acti_proware_test1\proware\target\test-classes\com\proware/*;jars/* org.testng.TESTNG ExecuteAlltestng.xml
